@@ -1,0 +1,6 @@
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Global allowlist"
+commits = ["429f6f83ac5d29faa39579cb2ee15b04ba61acf5"]
